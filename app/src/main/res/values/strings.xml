@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dream</string>
+    <string name="name_enter">Enter the name</string>
+    <string name="show_birthday_card">SHOW BIRTHDAY CARD!</string>
+    <string name="name">Name</string>
+    <string name="hint_txt">Enter your name</string>
+</resources>
